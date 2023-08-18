@@ -7,7 +7,9 @@ Instructions:
 
 Now all you have to do is run the application, and the input files will get copied to the archive folder, the scholarship and admission input files will be combined in the output folder and the report.txt file will be generated
 
-To promote re-useability, I didnt want to delete the input files, so instead of moving, I copied them over.
+Note:
+
+To promote re-useability, I didnt want to delete the input files from the input folder, so instead of moving them to archive, I copied them instead.
 
 To reuse, please just delete the archive files and the input files to re-run the application from the beginning
 
