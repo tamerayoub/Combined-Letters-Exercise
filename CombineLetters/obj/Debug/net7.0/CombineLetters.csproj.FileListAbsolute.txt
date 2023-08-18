@@ -1,0 +1,15 @@
+C:\CombineLettersExercise\CombineLetters\bin\Debug\net7.0\CombineLetters.exe
+C:\CombineLettersExercise\CombineLetters\bin\Debug\net7.0\CombineLetters.deps.json
+C:\CombineLettersExercise\CombineLetters\bin\Debug\net7.0\CombineLetters.runtimeconfig.json
+C:\CombineLettersExercise\CombineLetters\bin\Debug\net7.0\CombineLetters.dll
+C:\CombineLettersExercise\CombineLetters\bin\Debug\net7.0\CombineLetters.pdb
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\CombineLetters.csproj.AssemblyReference.cache
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\CombineLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\CombineLetters.AssemblyInfoInputs.cache
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\CombineLetters.AssemblyInfo.cs
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\CombineLetters.csproj.CoreCompileInputs.cache
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\CombineLetters.dll
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\refint\CombineLetters.dll
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\CombineLetters.pdb
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\CombineLetters.genruntimeconfig.cache
+C:\CombineLettersExercise\CombineLetters\obj\Debug\net7.0\ref\CombineLetters.dll
