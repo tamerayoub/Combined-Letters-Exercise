@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CombineLettersExercise\\CombineLetters\\CombineLetters.csproj",
+      "projectUniqueName": "C:\\Combined-Letters-Exercise\\CombineLetters\\CombineLetters.csproj",
       "projectName": "CombineLetters",
-      "projectPath": "C:\\CombineLettersExercise\\CombineLetters\\CombineLetters.csproj",
+      "projectPath": "C:\\Combined-Letters-Exercise\\CombineLetters\\CombineLetters.csproj",
       "packagesPath": "C:\\Users\\tamer\\.nuget\\packages\\",
-      "outputPath": "C:\\CombineLettersExercise\\CombineLetters\\obj\\",
+      "outputPath": "C:\\Combined-Letters-Exercise\\CombineLetters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tamer\\AppData\\Roaming\\NuGet\\NuGet.Config",

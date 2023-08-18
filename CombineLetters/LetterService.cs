@@ -16,9 +16,10 @@ namespace CombineLetters
             string content1 = File.ReadAllText(inputFile1);
             string content2 = File.ReadAllText(inputFile2);
 
-
+            // Make sure these 2 file paths matches the path in your own environment
             string outputFolderPath = "C:\\CombineLettersExercise\\CombineLetters\\Output\\";
             string archiveFolderPath = "C:\\CombineLettersExercise\\CombineLetters\\Archive\\";
+
             string reportFilePath = Path.Combine(outputFolderPath, "report.txt");
 
             // Combine the contents
